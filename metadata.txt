@@ -1,0 +1,28 @@
+1. Learning Outcome:
+   - Master building sequential multi-agent workflows using Microsoft AutoGen.
+   - Implement an API layer using FastAPI and Jinja2 for a web interface.
+   - Understand the orchestration of specialized role-playing AI agents (Planner, Researcher).
+   - Gain experience integration OpenAI's GPT-4o for complex reasoning and fact-checking.
+   - Develop efficient asynchronous Python applications.
+   - Build a structured data pipeline using Pydantic for agent communication.
+
+2. What you will build:
+   - A "Personalized Holiday Management Agent" capable of planning detailed travel itineraries.
+   - A Multi-Agent System where a Planner Agent creates the schedule and a Researcher Agent verifies facts.
+   - A FastAPI backend that serves a simple HTML interface for user interaction.
+   - A CLI tool for interacting with the agent team directly.
+
+3. Prerequisite:
+   - Proficiency in Python programming.
+   - Basic understanding of Asynchronous programming (async/await).
+   - Familiarity with REST APIs/FastAPI.
+   - An OpenAI API key and basic knowledge of LLMs.
+
+4. Technologies:
+   - Programming Language: Python
+   - Web Framework: FastAPI
+   - AI Framework: Microsoft AutoGen
+   - LLM Provider: OpenAI (GPT-4o)
+   - Frontend: HTML/CSS, Jinja2 Templates
+   - Data Validation: Pydantic
+   - Environment Management: Python-dotenv
